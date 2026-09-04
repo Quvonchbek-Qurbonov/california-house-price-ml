@@ -1,0 +1,11 @@
+.idea
+.claude
+.venv
+.env
+
+**/__pycache__/
+*.pyc
+
+*housing.csv
+*.complete
+
