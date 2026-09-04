@@ -6,6 +6,6 @@
 **/__pycache__/
 *.pyc
 
-*housing.csv
+*creditcard.csv
 *.complete
 
